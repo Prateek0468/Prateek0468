@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 ### Glad to see you here!  
-Prateek Bhatt is a Software Engineer at Hatica, based out of Chandigarh. He is super excited about Machine learning, React, and its internals. He loves to talk about design systems and performance in general. He is super passionate about sharing his experience and learnings mostly via LinkedIn and Twitter. He is a violinist and an open-source enthusiast.  
+Hey! I am a Software Engineer at Hatica, based out of Chandigarh. I am super excited about Machine learning, React, and its internals. I loves to talk about design systems and performance in general. I enjoy sharing my experiences and learnings mostly via LinkedIn and Twitter. Other than that, I love reading, playing violin and contributing to open source.  
   
 
 <br/>  
