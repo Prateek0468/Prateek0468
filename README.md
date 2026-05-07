@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/prateek-bhatt-3233351ab/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://ieeexplore.ieee.org/document/9753946" target="_blank">
+<img src="https://img.shields.io/badge/IEEE%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Paper" style="margin-bottom: 5px;" />
+</a>
   
 
-
-
-### Glad to see you here!  
 I am a software engineer and a problem solver. I like to build things and then keep refining them until they feel right i.e. fast, simple, and doing exactly what they should. I enjoy taking systems apart, questioning assumptions, and rebuilding them cleaner. Lately, most of my time goes into optimizing performance, clean coding, reading a lot of open source code and trying to contribute to it.
 <br/>
 <br/>
