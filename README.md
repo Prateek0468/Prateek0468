@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 
 ### Glad to see you here!  
-Hey! I am a Software Engineer at Hatica, based out of Chandigarh. I am super excited about Machine learning, React, and its internals. I loves to talk about design systems and performance in general. I enjoy sharing my experiences and learnings mostly via LinkedIn and Twitter. Other than that, I love reading, playing violin and contributing to open source.  
+I am a software engineer and a problem solver. I like to build things and then keep refining them until they feel right i.e. fast, simple, and doing exactly what they should. I enjoy taking systems apart, questioning assumptions, and rebuilding them cleaner. Lately, most of my time goes into optimizing performance, clean coding, reading a lot of open source code and trying to contribute to it.
+I’ve worked across small agencies, and fast-paced startups, adapting quickly to different ways of building and shipping products. My experience spans both B2B and B2C domains. Earlier works includes AI-driven end-to-end testing agents and engineering analytics platforms (most recent), educational platforms for learning/teaching/connecting (Wadhwani Foundation), and a daily subscription delivery app(SuprDaily by Swiggy).
   
 
 <br/>  
