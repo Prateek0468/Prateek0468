@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 -->
 ## Hey 👋, I'm Prateek Bhatt!  
   
-
-<a href="https://github.com/Prateek0468" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/Prateek_bhatt_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -31,44 +27,59 @@ Here are some ideas to get you started:
 
 ### Glad to see you here!  
 I am a software engineer and a problem solver. I like to build things and then keep refining them until they feel right i.e. fast, simple, and doing exactly what they should. I enjoy taking systems apart, questioning assumptions, and rebuilding them cleaner. Lately, most of my time goes into optimizing performance, clean coding, reading a lot of open source code and trying to contribute to it.
+<br/>
+<br/>
 I’ve worked across small agencies, and fast-paced startups, adapting quickly to different ways of building and shipping products. My experience spans both B2B and B2C domains. Earlier works includes AI-driven end-to-end testing agents and engineering analytics platforms (most recent), educational platforms for learning/teaching/connecting (Wadhwani Foundation), and a daily subscription delivery app(SuprDaily by Swiggy).
   
 
 <br/>  
 
 
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />  
-</div>  
+<!-- ## Languages and Tools  -->
+## Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Three.js](https://img.shields.io/badge/Three.js-0f172a?style=for-the-badge&logo=three.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-0f172a?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![SCSS](https://img.shields.io/badge/SCSS-0f172a?style=for-the-badge&logo=sass&logoColor=CC6699)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=339933)
+![Golang](https://img.shields.io/badge/Golang-0f172a?style=for-the-badge&logo=go&logoColor=00ADD8)
+![GraphQL](https://img.shields.io/badge/GraphQL-0f172a?style=for-the-badge&logo=graphql&logoColor=E10098)
+![gRPC](https://img.shields.io/badge/gRPC-0f172a?style=for-the-badge&logo=grpc&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-0f172a?style=for-the-badge&logo=apachekafka&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-0f172a?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### Systems & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0f172a?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![AWS](https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
+
+### Tools & Testing
+![Playwright](https://img.shields.io/badge/Playwright-0f172a?style=for-the-badge&logo=playwright&logoColor=2EAD33)
+![Webpack](https://img.shields.io/badge/Webpack-0f172a?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
+![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f172a?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
 <br/>  
 
 
 ## Github Stats  
-  
+
+<img src="https://streak-stats.demolab.com?user=Prateek0468&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<!--
+
 <table><tr><td valign="top" width="50%">
   
   [![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prateek0468)](https://github.com/Prateek0468/github-readme-stats)
@@ -79,7 +90,7 @@ I’ve worked across small agencies, and fast-paced startups, adapting quickly t
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek0468&layout=compact)
 
 </td></tr></table> 
-
+-->
 
 <!--
 ### 📊 Github Stats
