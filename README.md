@@ -49,6 +49,7 @@ I’ve worked across small agencies, and fast-paced startups, adapting quickly t
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=339933)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Golang](https://img.shields.io/badge/Golang-0f172a?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![GraphQL](https://img.shields.io/badge/GraphQL-0f172a?style=for-the-badge&logo=graphql&logoColor=E10098)
 ![gRPC](https://img.shields.io/badge/gRPC-0f172a?style=for-the-badge&logo=grpc&logoColor=white)
