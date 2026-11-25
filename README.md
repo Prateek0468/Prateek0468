@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## hey, I'm Prateek!
+## hey, I'm Prateek! 👋
   
 <a href="https://twitter.com/Prateek_bhatt_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -25,13 +25,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/IEEE%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Paper" style="margin-bottom: 5px;" />
 </a>
   
+Software engineer and problem solver. I like taking systems apart, questioning assumptions, and rebuilding them faster, simpler and cleaner.
 
-I am a software engineer and a problem solver. I like to build things and then keep refining them until they feel right i.e. fast, simple, and doing exactly what they should. I enjoy taking systems apart, questioning assumptions, and rebuilding them cleaner. Lately, most of my time goes into optimizing performance, clean coding, reading a lot of open source code and trying to contribute to it.
-<br/>
-<br/>
-I’ve worked across small agencies, and fast-paced startups, adapting quickly to different ways of building and shipping products. My experience spans both B2B and B2C domains. Earlier works includes AI-driven end-to-end testing agents and engineering analytics platforms (most recent), educational platforms for learning/teaching/connecting (Wadhwani Foundation), and a daily subscription delivery app(SuprDaily by Swiggy).
-  
-
+- 🧠 Deeply interested in **mathematics** and **machine learning** (IEEE-published researcher)
+- ⚡ Currently focused on **performance optimization**, clean code, and reading and contributing to **open source**
+- 🏗️ Shipped products across **B2B and B2C**: AI-driven E2E testing agents, engineering analytics, EdTech at Wadhwani Foundation, and SuprDaily by Swiggy
+- 🚀 Worked in small agencies and fast-moving startups, adapting quickly to new ways of building and shipping
 <br/>  
 
 
